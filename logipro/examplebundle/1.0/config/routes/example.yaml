@@ -1,0 +1,3 @@
+_examples:
+    resource: '@LogiproExampleBundle/Resources/config/routing/routing.yml'
+    prefix: /example
